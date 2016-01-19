@@ -25,7 +25,7 @@
      
     <insert id="insertBoard" parameterType="hashmap">
     <![CDATA[
-        INSERT INTO TB_BOARD
+        INSERT INTO login_test
         (
                 us_name,
                 us_idcode,
